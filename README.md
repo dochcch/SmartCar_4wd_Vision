@@ -24,7 +24,8 @@ python main.py
 ```
 
 ## Contributors
-thanks a lot to my Professor: @Dr. Louis LECROSNIER_ESIGELEC
+thanks a lot to my Professor: 
+@Dr. Louis LECROSNIER_ESIGELEC
 thanks my Group member to finish it together.
 
 
